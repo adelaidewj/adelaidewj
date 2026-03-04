@@ -1,0 +1,91 @@
+{
+  "source": "番茄小说 (Fanqie Novel)",
+  "website": "https://fanqienovel.com",
+  "extracted_at": "2026-03-04",
+  "platform_info": {
+    "operator": "北京时光荏苒科技有限公司",
+    "parent_company": "字节跳动 (ByteDance)",
+    "description": "抖音推出的免费阅读产品，提供海量正版小说"
+  },
+  "categories": [
+    "都市爽文",
+    "言情穿越",
+    "玄幻修仙",
+    "武侠世界",
+    "科幻末世",
+    "古代言情",
+    "种田文"
+  ],
+  "rankings": {
+    "male_channel": {
+      "name": "男频排行榜",
+      "url": "https://fanqienovel.com/rank"
+    },
+    "female_channel": {
+      "name": "女频排行榜",
+      "url": "https://fanqienovel.com/rank"
+    }
+  },
+  "hot_novels": [
+    {
+      "title": "修罗圣心",
+      "category": "科幻宇宙",
+      "description": "浩瀚宇宙与星尘钥匙传说的故事",
+      "tags": ["科幻", "宇宙", "星际"]
+    },
+    {
+      "title": "云之羽（剧改小说）",
+      "category": "古代言情",
+      "description": "女间谍混入选秀，与被迫继承人之间纠缠于阴谋与爱情",
+      "tags": ["热播剧改编", "阴谋", "爱情", "古风"]
+    },
+    {
+      "title": "冰糖炖雪梨",
+      "category": "都市言情",
+      "description": "酒小七著，口碑甜宠作品",
+      "author": "酒小七",
+      "tags": ["甜宠", "都市", "言情"]
+    },
+    {
+      "title": "皇后是这样炼成的",
+      "category": "古代言情",
+      "description": "酒小七著，宫廷宠文",
+      "author": "酒小七",
+      "tags": ["宫廷", "宠文", "古代"]
+    },
+    {
+      "title": "浪花一朵朵",
+      "category": "都市言情",
+      "description": "酒小七著，现代甜宠",
+      "author": "酒小七",
+      "tags": ["甜宠", "现代", "言情"]
+    }
+  ],
+  "keyword_pages": [
+    {
+      "name": "热门小说排行榜",
+      "url": "https://fanqienovel.com/keyword/7167221"
+    },
+    {
+      "name": "高分热门小说排行榜",
+      "url": "https://fanqienovel.com/keyword/2020655962"
+    },
+    {
+      "name": "番茄小说排行榜前十名",
+      "url": "https://fanqienovel.com/keyword/7196156"
+    },
+    {
+      "name": "最新玄幻小说排行榜",
+      "url": "https://fanqienovel.com/keyword/8015385"
+    },
+    {
+      "name": "热播榜第一",
+      "url": "https://fanqienovel.com/keyword/4101643"
+    },
+    {
+      "name": "十大甜文小说",
+      "url": "https://fanqienovel.com/keyword/7539239767251257383"
+    }
+  ],
+  "note": "由于平台设置了访问限制(HTTP 403)，数据通过搜索引擎聚合信息获取，可能不完整"
+}

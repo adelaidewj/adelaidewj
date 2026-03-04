@@ -1,0 +1,152 @@
+{
+  "source": "红果短剧 (Hongguo Short Drama)",
+  "website": "https://novelquickapp.com",
+  "extracted_at": "2026-03-04",
+  "platform_info": {
+    "operator": "北京笔墨留香科技有限公司",
+    "parent_company": "字节跳动 (ByteDance)",
+    "description": "抖音集团推出的免费看剧产品，提供海量免费优质短剧",
+    "latest_version": "v7.0.9.32",
+    "monthly_active_users": "1.58亿（2025年2月）"
+  },
+  "categories": [
+    "都市热血",
+    "甜宠言情",
+    "职场婚恋",
+    "逆袭反转",
+    "玄幻仙侠",
+    "青春校园",
+    "古风言情",
+    "民国爱情",
+    "奇幻爱情"
+  ],
+  "spring_festival_2026": {
+    "event_name": "红果短剧春节档",
+    "period": "2026年2月9日 - 2026年3月3日",
+    "total_views": "193亿次（2025年春节档数据）",
+    "featured_dramas": [
+      "《十八岁太奶奶驾到，重整家族荣耀第四部》",
+      "《穿书富家妯娌，我和闺蜜齐上阵3》",
+      "《一品布衣3：朝堂篇》",
+      "《天下第一纨绔2》",
+      "《你藏于星夜》",
+      "《红糖姜汁》",
+      "《从现在起，我将暂停世界一分钟》",
+      "《我在妖国当卧底》"
+    ]
+  },
+  "hot_dramas": [
+    {
+      "title": "炽炀",
+      "episodes": 98,
+      "category": "青春",
+      "tags": ["日久生情", "双向救赎"],
+      "detail_url": null
+    },
+    {
+      "title": "别后才知爱深",
+      "episodes": 76,
+      "category": "都市情感",
+      "tags": ["打脸虐渣", "总裁"],
+      "detail_url": null
+    },
+    {
+      "title": "南城待月",
+      "episodes": 74,
+      "category": "都市情感",
+      "tags": ["日久生情", "打脸虐渣"],
+      "detail_url": null
+    },
+    {
+      "title": "暗恋这件难过的小事",
+      "episodes": 80,
+      "category": "青春",
+      "tags": ["暗恋成真", "甜妹"],
+      "detail_url": null
+    },
+    {
+      "title": "匿名沉沦",
+      "episodes": 89,
+      "category": "都市情感",
+      "tags": ["暗恋成真", "乖乖女"],
+      "detail_url": null
+    },
+    {
+      "title": "时先生，你的暗恋藏不住啦",
+      "episodes": 100,
+      "category": "都市情感",
+      "tags": ["甜宠", "闪婚"],
+      "detail_url": null
+    },
+    {
+      "title": "用尽余生来爱你",
+      "episodes": 85,
+      "category": "都市情感",
+      "tags": ["日久生情", "青梅竹马"],
+      "detail_url": null
+    },
+    {
+      "title": "我的最后一任男朋友",
+      "episodes": 77,
+      "category": "都市情感",
+      "tags": ["虐恋", "打脸虐渣"],
+      "detail_url": null
+    },
+    {
+      "title": "我的同桌有超能力（新）",
+      "episodes": 90,
+      "category": "奇幻爱情",
+      "tags": ["青春", "异能"],
+      "detail_url": null
+    },
+    {
+      "title": "夜明照怜星",
+      "episodes": 67,
+      "category": "民国爱情",
+      "tags": ["先婚后爱", "少帅"],
+      "detail_url": null
+    },
+    {
+      "title": "我的AI男友：他从游戏追来了",
+      "episodes": 80,
+      "category": "奇幻爱情",
+      "tags": ["AI觉醒", "日久生情"],
+      "detail_url": null
+    },
+    {
+      "title": "冷月照孤舟",
+      "episodes": 77,
+      "category": "古风言情",
+      "tags": ["宫斗宅斗"],
+      "detail_url": null
+    },
+    {
+      "title": "黄毛穿书，学霸也是霸",
+      "episodes": 60,
+      "category": "青春",
+      "tags": ["穿书", "打脸虐渣"],
+      "detail_url": null
+    }
+  ],
+  "trending_themes": {
+    "name": "偷听心声题材",
+    "dramas": [
+      {"title": "我当这么久的反派，你告诉我被读心了", "episodes": 71},
+      {"title": "反派：我被众女偷听心声", "episodes": 60},
+      {"title": "全府偷听心声我被追着宠", "episodes": 72},
+      {"title": "偷听心声，满朝文武等我上朝", "episodes": 79},
+      {"title": "被偷听心声后，我成了帝王的掌上娇宠", "episodes": 66}
+    ]
+  },
+  "known_detail_pages": [
+    {
+      "title": "再次告白",
+      "url": "https://novelquickapp.com/detail?series_id=7455939291827407897"
+    },
+    {
+      "title": "魔神人生",
+      "url": "https://novelquickapp.com/detail?series_id=7474811850085895230"
+    }
+  ],
+  "note": "由于平台设置了访问限制(HTTP 403)，数据通过搜索引擎聚合信息获取，可能不完整"
+}
